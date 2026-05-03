@@ -1,4 +1,4 @@
-# Customer-churn-predictor
+
 # Customer Churn Predictor 🔮
 
 A machine learning web application that predicts customer churn for a telecommunications company. Built with XGBoost and deployed live on Streamlit Cloud. Containerised with Docker for reproducible local deployment.
