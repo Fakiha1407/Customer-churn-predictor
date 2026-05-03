@@ -3,7 +3,7 @@
 
 A machine learning web application that predicts customer churn for a telecommunications company. Built with XGBoost and deployed live on Streamlit Cloud. Containerised with Docker for reproducible local deployment.
 
-**🌐 Live App:** [customer-churn-predictor on Streamlit Cloud](https://customer-churn-predictor-app.streamlit.app)
+**🌐 Live App:** [customer-churn-predictor on Streamlit Cloud](https://customer-churn-predictor-ap55uhv4scci2qsftjltu4.streamlit.app/)
 
 ---
 
